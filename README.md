@@ -2,4 +2,4 @@
 
 Games from my golden ages.
 
-Games can be viewed with any PGN softwre like [ChessX](https://github.com/Isarhamster/chessx).
+Games can be viewed with any PGN software like [ChessX](https://github.com/Isarhamster/chessx).
